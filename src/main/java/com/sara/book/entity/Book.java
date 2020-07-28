@@ -1,4 +1,4 @@
-package com.sara.book.dao.entity;
+package com.sara.book.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
